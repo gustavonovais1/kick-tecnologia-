@@ -1,0 +1,16 @@
+table{
+    width: 600px;
+    height: 400px;
+    border-spacing:0% ;
+}
+
+table, td{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 23px;
+}
+
+.gree{
+    background-color: rgb(12, 88, 12);
+    color: white;
+}
